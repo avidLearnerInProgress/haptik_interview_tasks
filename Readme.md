@@ -11,7 +11,7 @@
 ![Tweet Insert](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task2/screenshots/3.tweet_insert.PNG)  
 ![List Tweets](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task2/screenshots/4.list_tweets.PNG)  
 ![List Tweets JSON](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task2/screenshots/5.list_tweets_json.PNG)  
-![List Tweets By Username](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task2/screenshots/5.list_tweets_by_username_json.PNG)  
+![List Tweets By Username](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/0aff95f7/Task2/screenshots/6.list_tweets_by_username_json.PNG)  
   
 ## Task 3  
 ![Result1] (https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task3/screenshots/result.PNG "Word Break Problem")  
