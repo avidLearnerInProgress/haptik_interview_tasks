@@ -14,4 +14,4 @@
 ![List Tweets By Username](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/0aff95f7/Task2/screenshots/6.list_tweets_by_username_json.PNG)  
   
 ## Task 3  
-![Result1] (https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task3/screenshots/result.PNG "Word Break Problem")  
+![Result1](https://cdn.rawgit.com/avidLearnerInProgress/haptik_interview_tasks/4c5e87a4/Task3/screenshots/result.PNG "Word Break Problem")  
