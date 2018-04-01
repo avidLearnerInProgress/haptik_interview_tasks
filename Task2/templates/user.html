@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block title %}
+{% endblock %}
+{% block main %}
+	<form method="POST">
+		<div class="container">
+
+			<div id = "box" class="panel panel-default col-md-12">
+				<h2 style="margin-left: 55px; margin-top: 20px;">Details:</h2>
+      			<div class="panel-body" style="margin-left:55px;">
+      				<br>
+      				<label for="firstname">First Name</label>
+      				<input type="text" id="fname" name="firstname" placeholder="Your name..">
+      				<br>
+      				<label for="lastname">Last Name</label>
+    				<input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    				<br>
+					<label for="usrnm">Enter Username</label>
+	    			<input type="text" id="usrnm" name="usrnm" placeholder="Your username..">
+	    			<br>
+	    			<label for="email">Enter Email</label>
+	    			<input type="text" id="email" name="email" placeholder="Your email..">
+	    		</div>
+	    	</div>
+	    	<button class="btn btn-info" type="submit" style="margin-left: 70px; margin-top: 30px">Create</button>
+	    </div>
+			
+	</form>
+	<div class = "container">
+		<div style="margin-top: 35px; margin-left: 75px; color:#bc1f00;">
+			Endpoints for reference:
+				<ul>
+					<li> "/" : Create User</li>
+					<li> "/insert" : Insert Tweet</li>
+					<li> "/tweets" : Get all Tweets</li>
+					<li> "/users" : Get all Users</li>	
+					<li> "/tweets/raw" : Get all Tweets in JSON format</li>
+					<li> "/tweets/username" : Get all Tweets of particular username in JSON format</li>
+				</ul>
+		</div>	
+		<div style="margin: 55px; color:#60cfff;">
+			<h4>{{data}}</h4>
+		</div>
+	</div>
+{% endblock %}
